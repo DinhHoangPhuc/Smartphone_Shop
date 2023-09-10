@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smartphone_Shop", "Smartphone_Shop.csproj", "{79FF9ED9-8302-44B9-BAE8-CCC59EAB1EE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "..\WebApplication1\WebApplication1.csproj", "{DA043748-8D63-4B7E-B1C7-6644E5C5A4B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FF9ED9-8302-44B9-BAE8-CCC59EAB1EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FF9ED9-8302-44B9-BAE8-CCC59EAB1EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FF9ED9-8302-44B9-BAE8-CCC59EAB1EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FF9ED9-8302-44B9-BAE8-CCC59EAB1EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA043748-8D63-4B7E-B1C7-6644E5C5A4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA043748-8D63-4B7E-B1C7-6644E5C5A4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA043748-8D63-4B7E-B1C7-6644E5C5A4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA043748-8D63-4B7E-B1C7-6644E5C5A4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC290B1-8D38-4D96-B882-C5F813CA65C2}
+	EndGlobalSection
+EndGlobal
